@@ -1,0 +1,90 @@
+#customize-controls {
+	background-color: #fff;
+}
+
+#customize-theme-controls .accordion-section-title:after {
+	color: #c8cbcd;
+}
+
+#customize-theme-controls .control-section-themes .accordion-section-title, #customize-theme-controls .control-section-themes .accordion-section-title:hover,#customize-controls .customize-info,#customize-controls .customize-info,#accordion-section-themes+.control-section,.accordion-section,#customize-theme-controls .accordion-section-title,#customize-theme-controls .control-panel-content .control-section:nth-child(2), #customize-theme-controls .control-panel-nav_menus .control-section:nth-child(3),#customize-theme-controls .control-section:last-of-type.open, #customize-theme-controls .control-section:last-of-type>.accordion-section-title {
+	border-color: #eaeaea;
+}
+
+.customize-control {
+	margin-bottom: 0;
+	background: #fff;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	border-bottom: 1px solid #eaeaea;
+}
+
+#customize-theme-controls .customize-pane-child.accordion-section-content {
+	padding: 15px 0;
+	background: #fff;
+}
+
+#customize-controls .description {
+	padding-left: 20px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+#customize-controls .customize-control .description {
+	padding-left: 0px;
+	font-size: 13px;
+	text-transform: capitalize;
+	font-weight: 400;
+	margin-bottom: 13px;
+}
+
+.customize-control-title {
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.50px;
+}
+
+.customize-control-kirki-radio-buttonset .buttonset {
+	margin-top: 10px;
+}
+
+.kirki-reset-section:hover, .kirki-reset-section:active {
+	padding: 5px;
+}
+
+.customize-control input[type=tel], .customize-control input[type=url], .customize-control input[type=text], .customize-control input[type=password], .customize-control input[type=email], .customize-control input[type=number], .customize-control input[type=search]{
+	line-height: 30px;
+	padding-left: 14px;
+	background-color: #EEEEEE;
+	outline: none;
+}
+
+
+input[type=text]:focus, input[type=search]:focus, input[type=radio]:focus, input[type=tel]:focus, input[type=time]:focus, input[type=url]:focus, input[type=week]:focus, input[type=password]:focus, input[type=checkbox]:focus, input[type=color]:focus, input[type=date]:focus, input[type=datetime]:focus, input[type=datetime-local]:focus, input[type=email]:focus, input[type=month]:focus, input[type=number]:focus, select:focus, textarea:focus{
+	box-shadow: none;
+	border-color:#80BE35;
+}
+
+.customize-control-kirki-radio-buttonset .buttonset .switch-input:checked + .switch-label {
+	background-color: #80BE35;
+}
+
+.selectize-input.full{
+	background-color: #EEEEEE;
+}
+
+.selectize-control.single .selectize-input:after{
+	padding: 0px 7px;
+}
+
+ul li:last-child{
+	border: none !important;
+}
+
+#customize-controls .control-section .accordion-section-title:focus, #customize-controls .control-section .accordion-section-title:hover, #customize-controls .control-section.open .accordion-section-title, #customize-controls .control-section:hover>.accordion-section-title,
+#customize-theme-controls .control-section .accordion-section-title:focus:after, #customize-theme-controls .control-section .accordion-section-title:hover:after, #customize-theme-controls .control-section.open .accordion-section-title:after, #customize-theme-controls .control-section:hover>.accordion-section-title:after,.customize-panel-back:focus, .customize-panel-back:hover, .customize-section-back:focus, .customize-section-back:hover,input[type="checkbox"]:checked::before {
+	color: #80BE35;
+}
+
+#customize-controls .control-section .accordion-section-title:focus, #customize-controls .control-section .accordion-section-title:hover, #customize-controls .control-section.open .accordion-section-title, #customize-controls .control-section:hover>.accordion-section-title,.customize-panel-back:focus, .customize-panel-back:hover, .customize-section-back:focus, .customize-section-back:hover{
+	border-left-color: #80BE35;
+}

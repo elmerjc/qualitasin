@@ -1,0 +1,44 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">pix_portfolio</custom-type>
+        <custom-type translate="1">pix_staffs</custom-type>
+        <custom-type translate="1">pix_testimonial</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">pix_jobs</taxonomy>
+        <taxonomy translate="1">pix_categories</taxonomy>
+    </taxonomies>
+    <admin-texts>
+		<key name="theme_mods_composer">		
+			<key name="top_text" />
+			<key name="search_text" />
+			<key name="single_porfolio_project_detail_title" />
+			<key name="single_porfolio_client_title" />
+			<key name="single_porfolio_skill_title" />
+			<key name="single_porfolio_task_title" />
+			<key name="single_porfolio_launch_btn_text" />
+			<key name="blog_page_title" />
+			<key name="blog_loadmore_text" />
+			<key name="blog_allpost_loaded_text" />
+			<key name="blog_single_link_text" />
+			<key name="single_related_title" />
+			<key name="single_comment_title" />
+			<key name="single_comment_form_title" />
+			<key name="single_comment_form_btn_text" />
+			<key name="archives_loadmore_text" />
+			<key name="archives_allpost_loaded_text" />
+			<key name="archives_single_link_text" />
+			<key name="search_loadmore_text" />
+			<key name="search_allpost_loaded_text" />
+			<key name="search_single_link_text" />
+			<key name="404_text" />
+			<key name="404_description" />
+			<key name="archives_single_link_text" />
+			<key name="shop_loadmore_text" />
+			<key name="shop_allpost_loaded_text" />
+			<key name="f_copyright_t" />
+		</key>
+    </admin-texts>
+</wpml-config>
+
+

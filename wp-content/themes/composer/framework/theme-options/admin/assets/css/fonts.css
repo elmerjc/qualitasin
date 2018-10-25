@@ -1,0 +1,184 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "pix-themeoptions";
+  src:url("../fonts/pix-themeoptions.eot");
+  src:url("../fonts/pix-themeoptions.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/pix-themeoptions.woff") format("woff"),
+    url("../fonts/pix-themeoptions.ttf") format("truetype"),
+    url("../fonts/pix-themeoptions.svg#pix-themeoptions") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "pix-themeoptions" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "pix-themeoptions" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-refresh:before {
+  content: "a";
+}
+.icon-check-mark-circle-two:before {
+  content: "b";
+}
+.icon-close-delete:before {
+  content: "c";
+}
+.icon-folder-open:before {
+  content: "d";
+}
+.icon-remove:before {
+  content: "e";
+}
+.icon-check-mark:before {
+  content: "f";
+}
+.icon-cancel:before {
+  content: "g";
+}
+.icon-check:before {
+  content: "h";
+}
+.icon-repeat-redo:before {
+  content: "i";
+}
+.icon-cloud-download:before {
+  content: "j";
+}
+.icon-download:before {
+  content: "k";
+}
+.icon-harddrive:before {
+  content: "l";
+}
+.icon-save-disk:before {
+  content: "m";
+}
+.icon-ccw:before {
+  content: "n";
+}
+.icon-pix-fonts:before {
+  content: "o";
+}
+.icon-pix-fonts-1:before {
+  content: "p";
+}
+.icon-pix-fonts-2:before {
+  content: "q";
+}
+.icon-pix-fonts-3:before {
+  content: "r";
+}
+.icon-pix-fonts-4:before {
+  content: "s";
+}
+.icon-pix-fonts-5:before {
+  content: "u";
+}
+.icon-pix-fonts-6:before {
+  content: "v";
+}
+.icon-pix-fonts-7:before {
+  content: "w";
+}
+.icon-pix-fonts-8:before {
+  content: "x";
+}
+.icon-pix-fonts-9:before {
+  content: "y";
+}
+.icon-pix-fonts-10:before {
+  content: "z";
+}
+.icon-pix-fonts-11:before {
+  content: "A";
+}
+.icon-pix-fonts-12:before {
+  content: "B";
+}
+.icon-pix-fonts-13:before {
+  content: "C";
+}
+.icon-pix-fonts-14:before {
+  content: "D";
+}
+.icon-pix-fonts-15:before {
+  content: "E";
+}
+.icon-eleganticons-1:before {
+  content: "F";
+}
+.icon-pix-fonts-16:before {
+  content: "G";
+}
+.icon-pix-fonts-17:before {
+  content: "H";
+}
+.icon-pix-fonts-18:before {
+  content: "I";
+}
+.icon-pix-fonts-20:before {
+  content: "J";
+}
+.icon-paint-bucket:before {
+  content: "K";
+}
+.icon-page-search:before {
+  content: "L";
+}
+.icon-page-export-csv:before {
+  content: "M";
+}
+.icon-tasks:before {
+  content: "N";
+}
+.icon-eleganticons:before {
+  content: "t";
+}
+.icon-eleganticons-2:before {
+  content: "O";
+}
+.icon-pix-fonts-19:before {
+  content: "P";
+}
+.icon-pix-fonts-21:before {
+  content: "Q";
+}
+.icon-pix-fonts-22:before {
+  content: "R";
+}
+.icon-key:before {
+  content: "S";
+}
+.icon-paintcan:before {
+  content: "T";
+}
+.icon-trello:before {
+  content: "V";
+}
+.icon-livejournal:before {
+  content: "X";
+}

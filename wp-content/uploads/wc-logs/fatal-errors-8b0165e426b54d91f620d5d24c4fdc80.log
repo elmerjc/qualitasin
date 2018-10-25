@@ -1,0 +1,72 @@
+2018-05-27T22:12:16+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 131072 bytes)
+
+2018-06-01T18:50:16+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 131072 bytes)
+
+2018-06-01T19:44:07+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 131072 bytes)
+
+2018-06-01T19:52:57+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 131072 bytes)
+
+2018-06-01T19:53:36+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 73728 bytes)
+
+2018-06-10T15:49:05+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 28672 bytes)
+
+2018-06-10T16:39:33+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 126976 bytes)
+
+2018-06-10T17:10:00+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 40960 bytes)
+
+2018-06-12T17:23:36+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 40960 bytes)
+
+2018-06-13T18:08:44+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 131072 bytes)
+
+2018-06-14T19:54:07+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 131072 bytes)
+
+2018-07-02T16:48:50+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 8192 bytes)
+
+2018-07-02T16:48:50+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 32768 bytes)
+
+2018-07-08T09:27:11+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 40960 bytes)
+
+2018-07-08T14:01:19+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 131072 bytes)
+
+2018-07-09T00:32:41+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 131072 bytes)
+
+2018-07-14T23:35:21+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 131072 bytes)
+
+2018-07-27T21:15:38+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 131072 bytes)
+
+2018-07-27T21:15:38+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 131072 bytes)
+
+2018-08-17T07:50:28+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 131072 bytes)
+
+2018-08-17T19:09:36+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 131072 bytes)
+
+2018-08-17T19:09:36+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 131072 bytes)
+
+2018-08-23T22:21:07+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 131072 bytes)
+
+2018-09-06T12:42:19+00:00 CRITICAL Out of memory (allocated 52428800) (tried to allocate 65536 bytes)
+
+2018-09-06T14:11:25+00:00 CRITICAL Out of memory (allocated 60817408) (tried to allocate 20480 bytes)
+
+2018-09-11T17:13:54+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 131072 bytes)
+
+2018-09-11T17:13:54+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 131072 bytes)
+
+2018-09-11T17:13:54+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 131072 bytes)
+
+2018-09-11T17:13:54+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 131072 bytes)
+
+2018-09-11T17:13:54+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 131072 bytes)
+
+2018-09-11T17:13:54+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 131072 bytes)
+
+2018-10-13T15:43:09+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 131072 bytes)
+
+2018-10-24T14:01:07+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 12288 bytes)
+
+2018-10-24T14:02:16+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 32768 bytes)
+
+2018-10-24T14:46:47+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 4096 bytes)
+
+2018-10-24T14:59:11+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 131072 bytes)
+

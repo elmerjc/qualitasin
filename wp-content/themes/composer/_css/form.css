@@ -1,0 +1,51 @@
+.gform_wrapper .gform_body label.gfield_label,.gform_wrapper .gform_body .field_sublabel_above .ginput_complex.ginput_container label, .gform_wrapper .gform_body .field_sublabel_above div[class*=gfield_time_].ginput_container label, .gform_wrapper .gform_body .field_sublabel_below .ginput_complex.ginput_container label, .gform_wrapper .gform_body .field_sublabel_below div[class*=gfield_time_].ginput_container label{
+		display: block;
+		font-size: 14px;
+		letter-spacing: 1px;
+		text-transform: uppercase;
+		font-weight: normal;
+		color: #1a1a1a;
+		margin: 5px 0;
+		font-family: 'Poppins',Arial,sans-serif;
+}
+
+
+
+.gform_wrapper .gform_body  input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]){
+    padding: 5px 12px;
+    letter-spacing: 1px;
+    width: 100%;
+    border: 1px solid #eaeaea;
+}
+
+.gform_wrapper.gf_browser_chrome .gform_body select {
+    padding: 6px 0 6px 6px;
+    width: 100% !important;
+}
+
+.gform_wrapper .gform_body .field_sublabel_above .description, .gform_wrapper .gform_body .field_sublabel_above .gfield_description, .gform_wrapper .gform_body .field_sublabel_above .gsection_description{
+	font-size: 12px;
+}
+
+.gform_wrapper.gf_browser_chrome .gform_body select,
+
+.gform_wrapper .gform_body textarea,
+.gform_wrapper .ginput_container_post_image input{
+	border: 1px solid #eaeaea;
+}
+
+.gform_body .ginput_container_fileupload input,
+.gform_body .ginput_container_post_image input{
+	border: none;
+}
+
+.gform_wrapper .gform_body .gfield_checkbox li label,
+.gform_wrapper .gform_body .gfield_radio li label{
+	margin: 7px 0 0 9px;
+	font-weight: 300;
+	
+}
+
+.gform_wrapper .gform_body .field_description_below .gfield_description{
+	font-size: 14px;
+}

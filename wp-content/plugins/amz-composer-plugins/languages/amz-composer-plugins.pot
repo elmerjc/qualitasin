@@ -1,0 +1,1120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: the-ocean\n"
+"POT-Creation-Date: 2015-11-15 13:57+0530\n"
+"PO-Revision-Date: 2015-11-15 13:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class/class-metaboxes.php:564
+#: ../includes/visual-composer/elements/vc_elements.php:169
+#: ../includes/visual-composer/elements/vc_elements.php:412
+msgid "Default"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:5
+msgid "Page Options"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:24
+#: ../includes/metaboxes/portfolio-metabox.php:90
+#: ../includes/metaboxes/post-metabox.php:218
+#: ../includes/metaboxes/staff-metabox.php:86
+msgid "General"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:31
+#: ../includes/metaboxes/portfolio-metabox.php:97
+#: ../includes/metaboxes/post-metabox.php:237
+#: ../includes/metaboxes/staff-metabox.php:93
+msgid "Body Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:32
+#: ../includes/metaboxes/portfolio-metabox.php:98
+#: ../includes/metaboxes/post-metabox.php:238
+#: ../includes/metaboxes/staff-metabox.php:94
+msgid ""
+"You can choose body background color here. Leave it empty to apply defaults"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:39
+#: ../includes/metaboxes/portfolio-metabox.php:105
+#: ../includes/metaboxes/post-metabox.php:245
+#: ../includes/metaboxes/staff-metabox.php:101
+msgid "Header Transparency"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:40
+#: ../includes/metaboxes/staff-metabox.php:102
+msgid ""
+"Enable / Disable Header Transparency for this page. Choose Default if you "
+"want to apply theme option settings"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:53
+#: ../includes/metaboxes/portfolio-metabox.php:119
+#: ../includes/metaboxes/post-metabox.php:259
+#: ../includes/metaboxes/staff-metabox.php:115
+msgid "Header Transparency Value"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:54
+#: ../includes/metaboxes/staff-metabox.php:116
+msgid ""
+"Choose a transparency for the header background color (0 = fully "
+"transparent, 50 = 50% transparent & 100 = opaque)"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:62
+#: ../includes/metaboxes/staff-metabox.php:124
+msgid "Header Text Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:63
+#: ../includes/metaboxes/staff-metabox.php:125
+msgid "Choose header text color, this affects header menu and icon colors"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:75
+#: ../includes/metaboxes/portfolio-metabox.php:128
+#: ../includes/metaboxes/post-metabox.php:268
+#: ../includes/metaboxes/staff-metabox.php:137
+msgid "Page Transition"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:76
+#: ../includes/metaboxes/staff-metabox.php:138
+msgid ""
+"Select Page transition, this option only work if you enabled preloader in "
+"themeoption"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:84
+#: ../includes/metaboxes/portfolio-metabox.php:137
+#: ../includes/metaboxes/post-metabox.php:277
+#: ../includes/metaboxes/staff-metabox.php:146
+msgid "Slider Shortcode"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:85
+#: ../includes/metaboxes/portfolio-metabox.php:138
+#: ../includes/metaboxes/post-metabox.php:278
+#: ../includes/metaboxes/staff-metabox.php:147
+msgid "Enter Slider Shortcode here. This will display below header/title bar."
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:91
+#: ../includes/metaboxes/post-metabox.php:191
+#: ../includes/metaboxes/staff-metabox.php:153
+msgid "Layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:98
+#: ../includes/metaboxes/staff-metabox.php:160
+msgid "Page Layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:99
+#: ../includes/metaboxes/post-metabox.php:199
+#: ../includes/metaboxes/staff-metabox.php:161
+msgid "Choose page layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:113
+#: ../includes/metaboxes/post-metabox.php:211
+#: ../includes/metaboxes/staff-metabox.php:175
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:114
+#: ../includes/metaboxes/post-metabox.php:212
+#: ../includes/metaboxes/staff-metabox.php:176
+msgid "Select Sidebar For this page."
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:120
+#: ../includes/metaboxes/post-metabox.php:284
+#: ../includes/metaboxes/staff-metabox.php:182
+msgid "Title Bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:127
+#: ../includes/metaboxes/portfolio-metabox.php:144
+#: ../includes/metaboxes/portfolio-metabox.php:151
+#: ../includes/metaboxes/post-metabox.php:291
+#: ../includes/metaboxes/staff-metabox.php:189
+msgid "Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:128
+#: ../includes/metaboxes/portfolio-metabox.php:152
+#: ../includes/metaboxes/post-metabox.php:292
+#: ../includes/metaboxes/staff-metabox.php:190
+msgid "Show / Hide Title bar in this page"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:140
+#: ../includes/metaboxes/portfolio-metabox.php:163
+#: ../includes/metaboxes/post-metabox.php:303
+#: ../includes/metaboxes/staff-metabox.php:202
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:141
+#: ../includes/metaboxes/portfolio-metabox.php:164
+#: ../includes/metaboxes/post-metabox.php:304
+#: ../includes/metaboxes/staff-metabox.php:203
+msgid "Show / Hide breadcrumbs in Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:153
+#: ../includes/metaboxes/portfolio-metabox.php:175
+#: ../includes/metaboxes/post-metabox.php:315
+#: ../includes/metaboxes/staff-metabox.php:215
+msgid "Title bar Size"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:154
+#: ../includes/metaboxes/portfolio-metabox.php:176
+#: ../includes/metaboxes/post-metabox.php:316
+#: ../includes/metaboxes/staff-metabox.php:216
+msgid "Choose title bar size"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:166
+#: ../includes/metaboxes/portfolio-metabox.php:188
+#: ../includes/metaboxes/post-metabox.php:328
+#: ../includes/metaboxes/staff-metabox.php:228
+msgid "Title Bar Style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:167
+#: ../includes/metaboxes/portfolio-metabox.php:189
+#: ../includes/metaboxes/post-metabox.php:329
+#: ../includes/metaboxes/staff-metabox.php:229
+msgid "Choose title bar style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:179
+#: ../includes/metaboxes/portfolio-metabox.php:201
+#: ../includes/metaboxes/post-metabox.php:341
+#: ../includes/metaboxes/staff-metabox.php:241
+msgid "Title Bar Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:180
+#: ../includes/metaboxes/portfolio-metabox.php:202
+#: ../includes/metaboxes/post-metabox.php:342
+#: ../includes/metaboxes/staff-metabox.php:242
+msgid "Choose Title bar background color. Leave it empty apply default"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:188
+#: ../includes/metaboxes/portfolio-metabox.php:210
+#: ../includes/metaboxes/post-metabox.php:350
+#: ../includes/metaboxes/staff-metabox.php:250
+msgid "Title Bar Background Image"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:189
+#: ../includes/metaboxes/portfolio-metabox.php:211
+#: ../includes/metaboxes/post-metabox.php:351
+#: ../includes/metaboxes/staff-metabox.php:251
+msgid ""
+"Choose Title bar background image. Leave it empty apply default from "
+"themeoption"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:198
+#: ../includes/metaboxes/portfolio-metabox.php:220
+#: ../includes/metaboxes/post-metabox.php:360
+#: ../includes/metaboxes/staff-metabox.php:260
+msgid "Title Bar text Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:199
+#: ../includes/metaboxes/portfolio-metabox.php:221
+#: ../includes/metaboxes/post-metabox.php:361
+#: ../includes/metaboxes/staff-metabox.php:261
+msgid "Choose Title bar text color. Leave it empty apply default"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:8
+#: ../includes/metaboxes/portfolio-metabox.php:24
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:31
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:32
+msgid ""
+"You can select single or multiple images, if you select more than one images "
+"it act as a slider"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:41
+#: ../includes/metaboxes/post-metabox.php:40
+msgid "Auto Slide"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:42
+#: ../includes/metaboxes/post-metabox.php:41
+msgid ""
+"To Enable autoplay or autoslide please type numeric value in milliseconds"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:50
+msgid "Client Name"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:51
+msgid "Enter the client name."
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:59
+msgid "Tasks"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:60
+msgid "Enter the tasks."
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:68
+msgid "Project URL"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:69
+msgid "Type the URL of the project"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:70
+msgid "If this field is empty the button wont display"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:77
+msgid "Target"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:78
+msgid "Do you want to open the project in new tab?"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:106
+msgid ""
+"Enable / Disable Header Transparency for this page. Choose default if you "
+"want you want to apply header settings from theme options."
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:120
+#: ../includes/metaboxes/post-metabox.php:260
+msgid ""
+"Choose a transparency for the header background color (0 = fully "
+"transparent, 0.5 = 50% transparent & 1 = opaque)"
+msgstr ""
+
+#: ../includes/metaboxes/portfolio-metabox.php:129
+#: ../includes/metaboxes/post-metabox.php:269
+msgid "Select Page transition"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:6
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:22
+msgid "Post Format Options"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:29
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:30
+msgid "Select images for gallery post format"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:42
+msgid ""
+"Ex: 2000, also you can enter true to set default duration(5000). Leave it "
+"blank or enter false to disable auto slide"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:50
+msgid "Link"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:51
+msgid "Type the external link it applies only in link post format"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:60
+msgid "Quote Author"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:61
+msgid "Enter the Author Name it applies only in quote post format"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:70
+msgid "Video Methods"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:71
+msgid "Choose the video methods such as (Direct insert or Iframe)"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:86
+msgid "Select Normal Video"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:87
+msgid "Choose or Upload video from Media Uploader"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:98
+msgid "Poster"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:99
+msgid "Choose or Upload image from Media Uploader for video poster"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:110
+#: ../includes/metaboxes/post-metabox.php:165
+#: ../includes/visual-composer/elements/vc_elements.php:136
+#: ../includes/visual-composer/elements/vc_elements.php:379
+#: ../includes/visual-composer/elements/vc_elements.php:588
+msgid "Autoplay"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:111
+msgid "If it's true, the videos plays automatically when the page loads"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:126
+msgid "Video Iframe"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:127
+msgid ""
+"Enter Video iframe (Please enter embed code form YouTube / Vimeo / Blip.tv / "
+"Viddler / Kickstarter )"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:137
+msgid "Audio Methods"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:138
+msgid "Choose the audio methods"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:153
+msgid "Select Normal Audio"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:154
+msgid "Choose or Upload audio from Media Uploader"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:166
+msgid "If it's true, the audios plays automatically when the page loads"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:181
+msgid "Audio Iframe"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:182
+msgid ""
+"Enter audio iframe (Please enter embed code form YouTube / Vimeo / Blip.tv / "
+"Viddler / Kickstarter )"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:198
+msgid "Post Layout"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:225
+msgid "Featured Image in single post"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:226
+msgid "Show / Hide Featured Image in single post"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:246
+msgid "Enable / Disable Header Transparency for this page"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:5
+msgid "Staff Options"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:24
+msgid "Social Links"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:31
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:38
+msgid "Twitter Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:45
+msgid "Google Plus Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:52
+msgid "Dribbble Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:59
+msgid "Linkedin Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:66
+msgid "Flickr Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:73
+msgid "Instagram Url"
+msgstr ""
+
+#: ../includes/metaboxes/staff-metabox.php:80
+msgid "Email Address"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:52
+msgid "All Portfolio"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:53
+msgid "Portfolio Id"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:54
+msgid "Portfolio Image"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:55
+#: ../includes/posttypes/posttypes.php:100
+#: ../includes/posttypes/posttypes.php:140
+#: ../includes/visual-composer/elements/vc_elements.php:39
+#: ../includes/visual-composer/elements/vc_elements.php:283
+#: ../includes/visual-composer/elements/vc_elements.php:507
+msgid "Date"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:97
+msgid "All Saffs"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:98
+#: ../includes/visual-composer/elements/vc_elements.php:22
+#: ../includes/visual-composer/elements/vc_elements.php:65
+msgid "Staff Id"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:99
+msgid "Staff Image"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:137
+msgid "All Testimonial"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:138
+msgid "Testimonial Id"
+msgstr ""
+
+#: ../includes/posttypes/posttypes.php:139
+msgid "Client Image"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:9
+msgid "Staffs"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:18
+msgid "Insert Staffs by"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:21
+msgid "Staffs Posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:28
+msgid "No. of Staffs"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:32
+msgid ""
+"Enter the number of staffs you want to display (only numbers), Enter -1 for "
+"all posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:37
+#: ../includes/visual-composer/elements/vc_elements.php:55
+#: ../includes/visual-composer/elements/vc_elements.php:281
+#: ../includes/visual-composer/elements/vc_elements.php:299
+#: ../includes/visual-composer/elements/vc_elements.php:505
+#: ../includes/visual-composer/elements/vc_elements.php:523
+msgid "Order By"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:40
+#: ../includes/visual-composer/elements/vc_elements.php:284
+#: ../includes/visual-composer/elements/vc_elements.php:508
+msgid "Rand"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:41
+#: ../includes/visual-composer/elements/vc_elements.php:285
+#: ../includes/visual-composer/elements/vc_elements.php:509
+msgid "ID"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:42
+#: ../includes/visual-composer/elements/vc_elements.php:286
+#: ../includes/visual-composer/elements/vc_elements.php:510
+msgid "Title"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:43
+#: ../includes/visual-composer/elements/vc_elements.php:287
+#: ../includes/visual-composer/elements/vc_elements.php:511
+msgid "Author"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:44
+#: ../includes/visual-composer/elements/vc_elements.php:288
+#: ../includes/visual-composer/elements/vc_elements.php:512
+msgid "Name"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:45
+#: ../includes/visual-composer/elements/vc_elements.php:289
+#: ../includes/visual-composer/elements/vc_elements.php:513
+msgid "Parent"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:46
+#: ../includes/visual-composer/elements/vc_elements.php:290
+#: ../includes/visual-composer/elements/vc_elements.php:514
+msgid "Date Modified"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:47
+#: ../includes/visual-composer/elements/vc_elements.php:291
+#: ../includes/visual-composer/elements/vc_elements.php:515
+msgid "Menu Order"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:48
+#: ../includes/visual-composer/elements/vc_elements.php:292
+#: ../includes/visual-composer/elements/vc_elements.php:516
+msgid "None"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:57
+#: ../includes/visual-composer/elements/vc_elements.php:301
+#: ../includes/visual-composer/elements/vc_elements.php:525
+msgid "Ascending order"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:58
+#: ../includes/visual-composer/elements/vc_elements.php:302
+#: ../includes/visual-composer/elements/vc_elements.php:526
+msgid "descending order"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:60
+msgid "Choose staffs posts Order"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:69
+msgid "Enter the staff ids seperated by commas (,). Example: 2,54,8"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:74
+msgid "Exclude Staffs"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:77
+msgid "Enter the staff id you don't want to display. Divide id with comma (,)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:82
+#: ../includes/visual-composer/elements/vc_elements.php:326
+msgid "Number of Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:84
+#: ../includes/visual-composer/elements/vc_elements.php:328
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:85
+#: ../includes/visual-composer/elements/vc_elements.php:329
+msgid "4 Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:86
+#: ../includes/visual-composer/elements/vc_elements.php:330
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:92
+msgid "HTML Tag for Staff Name"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:95
+msgid "Choose which html tag you want use for staff name."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:100
+msgid "Link to single staff page?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:102
+#: ../includes/visual-composer/elements/vc_elements.php:121
+#: ../includes/visual-composer/elements/vc_elements.php:129
+#: ../includes/visual-composer/elements/vc_elements.php:158
+#: ../includes/visual-composer/elements/vc_elements.php:180
+#: ../includes/visual-composer/elements/vc_elements.php:192
+#: ../includes/visual-composer/elements/vc_elements.php:202
+#: ../includes/visual-composer/elements/vc_elements.php:212
+#: ../includes/visual-composer/elements/vc_elements.php:223
+#: ../includes/visual-composer/elements/vc_elements.php:265
+#: ../includes/visual-composer/elements/vc_elements.php:339
+#: ../includes/visual-composer/elements/vc_elements.php:363
+#: ../includes/visual-composer/elements/vc_elements.php:372
+#: ../includes/visual-composer/elements/vc_elements.php:401
+#: ../includes/visual-composer/elements/vc_elements.php:423
+#: ../includes/visual-composer/elements/vc_elements.php:435
+#: ../includes/visual-composer/elements/vc_elements.php:445
+#: ../includes/visual-composer/elements/vc_elements.php:456
+#: ../includes/visual-composer/elements/vc_elements.php:467
+#: ../includes/visual-composer/elements/vc_elements.php:564
+#: ../includes/visual-composer/elements/vc_elements.php:580
+#: ../includes/visual-composer/elements/vc_elements.php:608
+#: ../includes/visual-composer/elements/vc_elements.php:618
+#: ../includes/visual-composer/elements/vc_elements.php:628
+#: ../includes/visual-composer/elements/vc_elements.php:638
+#: ../includes/visual-composer/elements/vc_elements.php:648
+#: ../includes/visual-composer/elements/vc_elements.php:658
+msgid "Yes"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:103
+#: ../includes/visual-composer/elements/vc_elements.php:120
+#: ../includes/visual-composer/elements/vc_elements.php:130
+#: ../includes/visual-composer/elements/vc_elements.php:159
+#: ../includes/visual-composer/elements/vc_elements.php:181
+#: ../includes/visual-composer/elements/vc_elements.php:191
+#: ../includes/visual-composer/elements/vc_elements.php:203
+#: ../includes/visual-composer/elements/vc_elements.php:213
+#: ../includes/visual-composer/elements/vc_elements.php:224
+#: ../includes/visual-composer/elements/vc_elements.php:266
+#: ../includes/visual-composer/elements/vc_elements.php:338
+#: ../includes/visual-composer/elements/vc_elements.php:364
+#: ../includes/visual-composer/elements/vc_elements.php:372
+#: ../includes/visual-composer/elements/vc_elements.php:402
+#: ../includes/visual-composer/elements/vc_elements.php:424
+#: ../includes/visual-composer/elements/vc_elements.php:434
+#: ../includes/visual-composer/elements/vc_elements.php:446
+#: ../includes/visual-composer/elements/vc_elements.php:457
+#: ../includes/visual-composer/elements/vc_elements.php:468
+#: ../includes/visual-composer/elements/vc_elements.php:563
+#: ../includes/visual-composer/elements/vc_elements.php:581
+#: ../includes/visual-composer/elements/vc_elements.php:609
+#: ../includes/visual-composer/elements/vc_elements.php:619
+#: ../includes/visual-composer/elements/vc_elements.php:629
+#: ../includes/visual-composer/elements/vc_elements.php:639
+#: ../includes/visual-composer/elements/vc_elements.php:649
+#: ../includes/visual-composer/elements/vc_elements.php:659
+msgid "No"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:109
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:112
+msgid "Enter the Button Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:118
+#: ../includes/visual-composer/elements/vc_elements.php:336
+msgid "Disable Space in columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:122
+#: ../includes/visual-composer/elements/vc_elements.php:340
+msgid "Choose Yes to disable Space ( no margin inbetween columns )"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:127
+#: ../includes/visual-composer/elements/vc_elements.php:370
+msgid "Enable carousel?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:131
+msgid "Do you like to display staffs in carousel?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:132
+#: ../includes/visual-composer/elements/vc_elements.php:141
+#: ../includes/visual-composer/elements/vc_elements.php:151
+#: ../includes/visual-composer/elements/vc_elements.php:162
+#: ../includes/visual-composer/elements/vc_elements.php:173
+#: ../includes/visual-composer/elements/vc_elements.php:184
+#: ../includes/visual-composer/elements/vc_elements.php:195
+#: ../includes/visual-composer/elements/vc_elements.php:206
+#: ../includes/visual-composer/elements/vc_elements.php:216
+#: ../includes/visual-composer/elements/vc_elements.php:227
+#: ../includes/visual-composer/elements/vc_elements.php:374
+#: ../includes/visual-composer/elements/vc_elements.php:384
+#: ../includes/visual-composer/elements/vc_elements.php:394
+#: ../includes/visual-composer/elements/vc_elements.php:405
+#: ../includes/visual-composer/elements/vc_elements.php:416
+#: ../includes/visual-composer/elements/vc_elements.php:427
+#: ../includes/visual-composer/elements/vc_elements.php:438
+#: ../includes/visual-composer/elements/vc_elements.php:449
+#: ../includes/visual-composer/elements/vc_elements.php:460
+#: ../includes/visual-composer/elements/vc_elements.php:471
+#: ../includes/visual-composer/elements/vc_elements.php:578
+#: ../includes/visual-composer/elements/vc_elements.php:583
+#: ../includes/visual-composer/elements/vc_elements.php:592
+#: ../includes/visual-composer/elements/vc_elements.php:601
+#: ../includes/visual-composer/elements/vc_elements.php:611
+#: ../includes/visual-composer/elements/vc_elements.php:621
+#: ../includes/visual-composer/elements/vc_elements.php:631
+#: ../includes/visual-composer/elements/vc_elements.php:641
+#: ../includes/visual-composer/elements/vc_elements.php:651
+#: ../includes/visual-composer/elements/vc_elements.php:661
+msgid "Slider"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:139
+#: ../includes/visual-composer/elements/vc_elements.php:382
+msgid ""
+"Enter the Value in milesecond (Ex: 4000), Enter 'false' to disable autoplay."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:146
+#: ../includes/visual-composer/elements/vc_elements.php:389
+#: ../includes/visual-composer/elements/vc_elements.php:597
+msgid "Slide Speed"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:149
+#: ../includes/visual-composer/elements/vc_elements.php:392
+#: ../includes/visual-composer/elements/vc_elements.php:600
+msgid "Enter the Value in milesecond (Ex: 500)"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:156
+#: ../includes/visual-composer/elements/vc_elements.php:399
+#: ../includes/visual-composer/elements/vc_elements.php:606
+msgid "Arrow"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:160
+msgid "Do you want to display carousel arrow?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:167
+#: ../includes/visual-composer/elements/vc_elements.php:410
+msgid "Arrow Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:170
+msgid "Arrow Top Center"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:171
+msgid "Choose arrow postion"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:178
+#: ../includes/visual-composer/elements/vc_elements.php:361
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:182
+#: ../includes/visual-composer/elements/vc_elements.php:620
+msgid "Do you want to display carousel dot nav?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:189
+#: ../includes/visual-composer/elements/vc_elements.php:432
+#: ../includes/visual-composer/elements/vc_elements.php:626
+msgid "Auto Height"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:193
+msgid ""
+"By Enabling this, slider height will vary depends on content for each slide. "
+"Please turn off this if you have more content below Staffs to avoid page "
+"moving."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:200
+#: ../includes/visual-composer/elements/vc_elements.php:443
+#: ../includes/visual-composer/elements/vc_elements.php:447
+#: ../includes/visual-composer/elements/vc_elements.php:636
+#: ../includes/visual-composer/elements/vc_elements.php:640
+msgid "Stop On Hover"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:204
+msgid "Stop auto moving carousel on mouseover"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:210
+#: ../includes/visual-composer/elements/vc_elements.php:214
+#: ../includes/visual-composer/elements/vc_elements.php:454
+#: ../includes/visual-composer/elements/vc_elements.php:458
+#: ../includes/visual-composer/elements/vc_elements.php:646
+#: ../includes/visual-composer/elements/vc_elements.php:650
+msgid "Do you like to move carousel Mouse Drag?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:221
+#: ../includes/visual-composer/elements/vc_elements.php:465
+#: ../includes/visual-composer/elements/vc_elements.php:656
+msgid "Touch Drag"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:225
+#: ../includes/visual-composer/elements/vc_elements.php:469
+#: ../includes/visual-composer/elements/vc_elements.php:660
+msgid "Do you like to move carousel Touch Drag (in touch devices)?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:234
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:243
+msgid "Portfolio Style"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:246
+msgid "Grid"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:247
+msgid "Masonry"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:253
+msgid "Insert Portfolio by"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:256
+msgid "Portfolio Posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:257
+#: ../includes/visual-composer/elements/vc_elements.php:309
+msgid "portfolio Id"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:263
+msgid "Filterable"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:267
+msgid "Filter only displays if you choose carousel \"No\""
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:272
+msgid "No. of Portfolio"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:276
+msgid ""
+"Enter the number of Portfolio you want to display (only numbers), Enter -1 "
+"for all portfolio items"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:313
+msgid "Enter the portfolio ids seperated by commas (,). Example: 2,54,8"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:318
+msgid "Exclude Portfolio"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:321
+msgid ""
+"Enter the portfolio id you don't want to display. Divide id with comma (,)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:345
+msgid "HTML Tag for portfolio Name"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:348
+msgid "Choose which html tag you want use for portfolio name."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:353
+#: ../includes/visual-composer/elements/vc_elements.php:570
+msgid "Load More Text"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:356
+#: ../includes/visual-composer/elements/vc_elements.php:573
+msgid "Type the Load More text here"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:365
+msgid "Do you want to display ajax pagination?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:373
+msgid "Do you like to display Portfolio in carousel?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:403
+#: ../includes/visual-composer/elements/vc_elements.php:610
+msgid "select the arrow if you want"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:413
+msgid "Arrow on Top"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:414
+msgid "Do you like to show arrow navigation on Side or top of carousel."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:421
+#: ../includes/visual-composer/elements/vc_elements.php:616
+msgid "Slider Pagination"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:425
+msgid "Do you want to display slider pagination?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:436
+msgid ""
+"By Enabling this, slider height will vary depends on content for each slide. "
+"Please turn off this if you have more content below portfolio to avoid page "
+"moving."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:478
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:487
+msgid "Insert testimonials by"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:489
+msgid "testimonials Posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:490
+#: ../includes/visual-composer/elements/vc_elements.php:533
+msgid "testimonial Id"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:496
+msgid "No. of testimonials"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:500
+msgid ""
+"Enter the number of testimonials you want to display (only numbers), Enter "
+"-1 for all posts"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:537
+msgid "Enter the testimonial ids seperated by commas (,). Example: 2,54,8"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:542
+msgid "Exclude Testimonials"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:545
+msgid ""
+"Enter the testimonial id you don't want to display. Divide id with comma (,)."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:550
+msgid "Number of columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:552
+msgid "One Column"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:553
+msgid "Two Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:554
+msgid "Three Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:555
+msgid "Four Columns"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:561
+msgid "Ajax Pagination"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:565
+msgid "Do you want ajax pagination?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:582
+msgid "Do you want slider?"
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:591
+msgid ""
+"Enter the Value in milesecond (Ex: 5000), Enter 'false' to disable autoplay."
+msgstr ""
+
+#: ../includes/visual-composer/elements/vc_elements.php:630
+msgid ""
+"By Enabling this, slider height will vary depends on content for each slide. "
+"Please turn off this if you have more content below testimonial to avoid "
+"page moving."
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:193
+msgid "No Staff Posts Found."
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:495
+msgid "No Portfolio Items Found."
+msgstr ""
+
+#: ../includes/visual-composer/shortcodes/external_shortcodes.php:674
+msgid "Testimonial posts not Found. Please add atleast one."
+msgstr ""

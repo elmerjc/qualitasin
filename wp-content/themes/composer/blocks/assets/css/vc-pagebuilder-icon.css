@@ -1,0 +1,219 @@
+/*-----------------------------------------------------------------------------------
+VC Pagebuilder Icon
+/*-----------------------------------------------------------------------------------*/
+
+.vc_add-element-container .wpb-content-layouts li.blocks_o a {
+	padding-left: 77px;
+}
+
+.vc_add-element-container .wpb-content-layouts li.blocks_o .vc_element-icon {
+	opacity: 0.8;
+	background-repeat: no-repeat;
+	top: 10px;
+	width: 60px;
+    height: 50px;
+}
+
+.blocks .vc_general.vc_element-icon {
+	background-repeat: no-repeat;
+	top: 10px;
+	width: 60px;
+    height: 50px;
+    margin-top: -5px;
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block1, .blocks .icon-block1 {
+	background: url('../image/icon-block1.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block2, .blocks .icon-block2 {
+	background: url('../image/icon-block2.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block3, .blocks .icon-block3 {
+	background: url('../image/icon-block3.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block4, .blocks .icon-block4 {
+	background: url('../image/icon-block4.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block5, .blocks .icon-block5 {
+	background: url('../image/icon-block5.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block6, .blocks .icon-block6 {
+	background: url('../image/icon-block6.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block7, .blocks .icon-block7 {
+	background: url('../image/icon-block7.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block8, .blocks .icon-block8 {
+	background: url('../image/icon-block8.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block9, .blocks .icon-block9 {
+	background: url('../image/icon-block9.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-block10, .blocks .icon-block10 {
+	background: url('../image/icon-block10.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block1, .blocks .icon-grid-block1 {
+	background: url('../image/icon-grid-block1.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block2, .blocks .icon-grid-block2 {
+	background: url('../image/icon-grid-block2.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block3, .blocks .icon-grid-block3 {
+	background: url('../image/icon-grid-block3.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block4, .blocks .icon-grid-block4 {
+	background: url('../image/icon-grid-block4.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block5, .blocks .icon-grid-block5 {
+	background: url('../image/icon-grid-block5.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block6, .blocks .icon-grid-block6 {
+	background: url('../image/icon-grid-block6.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block7, .blocks .icon-grid-block7 {
+	background: url('../image/icon-grid-block7.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block8, .blocks .icon-grid-block8 {
+	background: url('../image/icon-grid-block8.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block9, .blocks .icon-grid-block9 {
+	background: url('../image/icon-grid-block9.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block10, .blocks .icon-grid-block10 {
+	background: url('../image/icon-grid-block10.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block11, .blocks .icon-grid-block11 {
+	background: url('../image/icon-grid-block11.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-grid-block12, .blocks .icon-grid-block12 {
+	background: url('../image/icon-grid-block12.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block1, .blocks .icon-featured-block1 {
+	background: url('../image/icon-featured-block1.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block2, .blocks .icon-featured-block2 {
+	background: url('../image/icon-featured-block2.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block3, .blocks .icon-featured-block3 {
+	background: url('../image/icon-featured-block3.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block4, .blocks .icon-featured-block4 {
+	background: url('../image/icon-featured-block4.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block5, .blocks .icon-featured-block5 {
+	background: url('../image/icon-featured-block5.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block6, .blocks .icon-featured-block6 {
+	background: url('../image/icon-featured-block6.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block7, .blocks .icon-featured-block7 {
+	background: url('../image/icon-featured-block7.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block8, .blocks .icon-featured-block8 {
+	background: url('../image/icon-featured-block8.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block9, .blocks .icon-featured-block9 {
+	background: url('../image/icon-featured-block9.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-featured-block10, .blocks .icon-featured-block10 {
+	background: url('../image/icon-featured-block10.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block1, .blocks .icon-portfolio-block1 {
+	background: url('../image/icon-grid-block1.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block2, .blocks .icon-portfolio-block2 {
+	background: url('../image/icon-grid-block2.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block3, .blocks .icon-portfolio-block3 {
+	background: url('../image/icon-grid-block3.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block4, .blocks .icon-portfolio-block4 {
+	background: url('../image/icon-grid-block4.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block5, .blocks .icon-portfolio-block5 {
+	background: url('../image/icon-grid-block5.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block6, .blocks .icon-portfolio-block6 {
+	background: url('../image/icon-grid-block6.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block7, .blocks .icon-portfolio-block7 {
+	background: url('../image/icon-grid-block7.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block8, .blocks .icon-portfolio-block8 {
+	background: url('../image/icon-grid-block8.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block9, .blocks .icon-portfolio-block9 {
+	background: url('../image/icon-grid-block9.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block10, .blocks .icon-portfolio-block10 {
+	background: url('../image/icon-grid-block10.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block11, .blocks .icon-portfolio-block11 {
+	background: url('../image/icon-grid-block11.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-portfolio-block12, .blocks .icon-portfolio-block12 {
+	background: url('../image/icon-grid-block12.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-shop-block1, .blocks .icon-shop-block1 {
+	background: url('../image/icon-shop-block1.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-shop-block2, .blocks .icon-shop-block2 {
+	background: url('../image/icon-shop-block2.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-shop-block3, .blocks .icon-shop-block3 {
+	background: url('../image/icon-shop-block3.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-shop-block4, .blocks .icon-shop-block4 {
+	background: url('../image/icon-shop-block4.png');
+}
+
+.wpb-content-layouts .wpb-layout-element-button .icon-shop-block5, .blocks .icon-shop-block5 {
+	background: url('../image/icon-shop-block5.png');
+}
